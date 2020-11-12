@@ -1,0 +1,1 @@
+I have used Venv ( Virtual environment) to run the python django code. I have made the encyclopedia app in the 'Venv' folder so the virtual OS can provision the script in Django runserver.
